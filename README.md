@@ -10,7 +10,7 @@
 ## 🌱 I’m currently learning ...
 
 - React : 2023년 말부터 리액트 기반 프로젝트를 진행하며 배우고 있습니다.
-- GSAP : HTML 기반뿐만 아니라 리액트 기반 사이트에서 활용하기 위해 배우고 있습니다.
+- TypeScript : 리액트와 타입스크립트 범용을 기준으로 제작하고 있습니다.
 
 ## 📫 How to reach me ...
 - 이메일 : yumee0827@naver.com

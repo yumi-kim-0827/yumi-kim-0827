@@ -7,6 +7,13 @@
 
 다양한 서비스를 통해 사람들의 일상에 긍정적인 변화를 주는 솔루션에 대한 열정이 있습니다.
 
+- 리액트,넥스트,mongodb 프로젝트 1 : View [here](https://yum-react-ui-kit.vercel.app/)
+- 리액트 프로젝트 2 : View [here](https://yumi-kim-0827.github.io/en_tourinkorea/)
+- 리액트 프로젝트 3 : View [here](https://yumi-kim-0827.github.io/simpletodo/)
+- 기업 홍보 랜딩 페이지 : View [here](https://yumi-kim-0827.github.io/yumee0827_v1/#firstPage)
+- gsap 스크롤 애니메이션 : View [here](https://yumi-kim-0827.github.io/yumee0827_v2/)
+
+
 ## I’m currently learning ...
 - JavaScript : 자바스크립트의 깊은 이해와 기능 등을 연습하고 있습니다.
 - React : 2023년도부터 리액트 기반 프로젝트를 진행하며 배우고 있습니다.

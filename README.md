@@ -7,7 +7,7 @@
 
 다양한 서비스를 통해 사람들의 일상에 긍정적인 변화를 주는 솔루션에 대한 열정이 있습니다.
 
-- PJ 1 _ 스타일드 기반 그라데이션 UI KIT
+- PJ 1 _ styled-component 기반 그라데이션 UI KIT 라이브러리 구현
   - View [here](https://yum-react-ui-kit.vercel.app/)
   - 넥스트, 타입스크립트, STYLED-COMPONENT, mongodb
 - PJ 2 _ 외국인을 위한 한국 관광 정보 조회 서비스

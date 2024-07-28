@@ -3,15 +3,22 @@
 
 깃헙 아이디 : yumi-kim-0827
 
-## About me ...
+## Project ...
 
 다양한 서비스를 통해 사람들의 일상에 긍정적인 변화를 주는 솔루션에 대한 열정이 있습니다.
 
-- 리액트,넥스트,mongodb 프로젝트 1 : View [here](https://yum-react-ui-kit.vercel.app/)
-- 리액트 프로젝트 2 : View [here](https://yumi-kim-0827.github.io/en_tourinkorea/)
-- 리액트 프로젝트 3 : View [here](https://yumi-kim-0827.github.io/simpletodo/)
-- 기업 홍보 랜딩 페이지 : View [here](https://yumi-kim-0827.github.io/yumee0827_v1/#firstPage)
-- gsap 스크롤 애니메이션 : View [here](https://yumi-kim-0827.github.io/yumee0827_v2/)
+- PJ 1 _ 스타일드 기반 그라데이션 UI KIT
+  - View [here](https://yum-react-ui-kit.vercel.app/)
+  - 넥스트, 타입스크립트, STYLED-COMPONENT, mongodb
+- PJ 2 _ 외국인을 위한 한국 관광 정보 조회 서비스
+  - 리액트, AXIOS : View [here](https://yumi-kim-0827.github.io/en_tourinkorea/)
+- PJ 3 _ 음성인식을 곁들인 투두리스트
+  - View [here](https://yumi-kim-0827.github.io/simpletodo/)
+  - 리액트
+- PJ 4 _ 기업 홍보 랜딩 페이지 : View [here](https://yumi-kim-0827.github.io/yumee0827_v1/#firstPage)
+  - html5, css, swiper, javascript
+- PJ 5 _ 어플리케이션 홍보 랜딩 페이지 : View [here](https://yumi-kim-0827.github.io/yumee0827_v2/)
+  - html5, css, gsap animation, javascript
 
 
 ## I’m currently learning ...

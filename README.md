@@ -3,6 +3,16 @@
 
 깃헙 아이디 : yumi-kim-0827
 
+```markdown
+https://yumi-kim-0827.github.io/yumee0827_v1/#firstPage
+https://yumi-kim-0827.github.io/en_tourinkorea/
+https://yum-react-ui-kit.vercel.app/
+https://yumi-kim-0827.github.io/simpletodo/
+https://yumi-kim-0827.github.io/yumee0827_v2/
+```
+
+</details>
+
 ## Project ...
 
 다양한 서비스를 통해 사람들의 일상에 긍정적인 변화를 주는 솔루션에 대한 열정이 있습니다.
@@ -27,10 +37,10 @@
 - TypeScript : 리액트와 타입스크립트 범용을 기준으로 제작하고 있습니다.
 
 ## Career ...
-- 2023 ~ 현재 ) UX/UI 프론트 구축
-- 2020 ~ 2022 ) IT 솔루션 회사에서 자사 서비스 UXUI 구축 리딩
-- 2018 ~ 2019 ) 헤어제품 도소매 프랑스 지사에서 자사 쇼핑몰 유지보수
-- 2017 ~ 2018 ) 국내 최대 규모 유아교육 기업에서 UXUI 구축
+- 2024 ~ 현재 ) GIS 솔루션 기업(판교) 데이터 대시보드 UX/UI 및 프론트 구축 리딩
+- 2020 ~ 2022 ) IT 솔루션 기업(가산)에서 자사 서비스 UXUI 구축 리딩
+- 2018 ~ 2019 ) 헤어제품 도소매 기업(프랑스) 자사 쇼핑몰 유지보수
+- 2017 ~ 2018 ) 국내 최대 규모 유아교육 기업(용인)에서 UXUI 구축
 
 ## How to reach me ...
 - 이메일 : yumee0827@naver.com

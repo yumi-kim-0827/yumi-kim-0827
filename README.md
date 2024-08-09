@@ -11,7 +11,11 @@ https://yumi-kim-0827.github.io/simpletodo/
 https://yumi-kim-0827.github.io/yumee0827_v2/
 ```
 
-</details>
+## Career ...
+- 2024 ~ 현재 ) GIS 솔루션 기업(판교) 데이터 대시보드 UX/UI 및 프론트 구축
+- 2020 ~ 2022 ) IT 솔루션 기업(가산)에서 자사 서비스 UXUI 구축 리딩
+- 2018 ~ 2019 ) 헤어제품 도소매 기업(프랑스) 자사 쇼핑몰 유지보수
+- 2017 ~ 2018 ) 국내 최대 규모 유아교육 기업(용인)에서 UXUI 구축
 
 ## Project ...
 
@@ -30,17 +34,10 @@ https://yumi-kim-0827.github.io/yumee0827_v2/
 - PJ 5 _ 어플리케이션 홍보 랜딩 페이지 : View [here](https://yumi-kim-0827.github.io/yumee0827_v2/)
   - html5, css, gsap animation, javascript
 
-
 ## I’m currently learning ...
 - JavaScript : 자바스크립트의 깊은 이해와 기능 등을 연습하고 있습니다.
 - React : 2023년도부터 리액트 기반 프로젝트를 진행하며 배우고 있습니다.
 - TypeScript : 리액트와 타입스크립트 범용을 기준으로 제작하고 있습니다.
-
-## Career ...
-- 2024 ~ 현재 ) GIS 솔루션 기업(판교) 데이터 대시보드 UX/UI 및 프론트 구축 리딩
-- 2020 ~ 2022 ) IT 솔루션 기업(가산)에서 자사 서비스 UXUI 구축 리딩
-- 2018 ~ 2019 ) 헤어제품 도소매 기업(프랑스) 자사 쇼핑몰 유지보수
-- 2017 ~ 2018 ) 국내 최대 규모 유아교육 기업(용인)에서 UXUI 구축
 
 ## How to reach me ...
 - 이메일 : yumee0827@naver.com

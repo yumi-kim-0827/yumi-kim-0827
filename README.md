@@ -4,7 +4,6 @@
 깃헙 아이디 : yumi-kim-0827
 
 ```markdown
-https://www.childcareportal.co.kr/
 https://yumi-kim-0827.github.io/en_tourinkorea/
 https://yumi-kim-0827.github.io/yumee0827_v1/#firstPage
 https://yum-react-ui-kit.vercel.app/
